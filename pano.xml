@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" appversion="6.0.6" apprev="17336">
+  <panorama id="node2">
+    <input height="2000" leveltilesize="510" overlap="1" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="2000" levelbias="0.400">
+      <level predecode="0" height="2000" preload="0" width="2000"/>
+      <level predecode="0" height="1000" preload="0" width="1000"/>
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata source="" title="" latitude="" customnodeid="" comment="" datetime="2021/10/15 23:19" tags="海口电视台效果图" longitude="" copyright="" info="" author="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" background="1" backgroundcolor="0xffffff" borderradius="1" height="20" border="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot title="导控室" pan="-143.72" skinid="ht_node" url="{node1}" description="导控室" target="" id="a" tilt="-2"/>
+      <hotspot title="导控室" pan="-216.37" skinid="ht_node" url="{node1}" description="导控室" target="" id="b" tilt="-1.1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <autorotate nodedelay="0.00" useanimation="1" speed="0.040" delay="5.00" enabled="1" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedmouse="0" contextfullscreen="1" hideabout="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="2000" leveltilesize="510" overlap="1" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" width="2000" levelbias="0.400">
+      <level predecode="0" height="2000" preload="0" width="2000"/>
+      <level predecode="0" height="1000" preload="0" width="1000"/>
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata source="" title="" latitude="" customnodeid="" comment="" datetime="2021/10/16 3:49" tags="海口电视台效果图" longitude="" copyright="" info="" author="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" background="1" backgroundcolor="0xffffff" borderradius="1" height="20" border="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot title="演播室" pan="-123.35" skinid="ht_node" url="{node1}" description="演播室" target="" id="c" tilt="-2.93"/>
+      <hotspot title="演播室" pan="-231.53" skinid="ht_node" url="{node1}" description="演播室" target="" id="d" tilt="-2.3"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <autorotate nodedelay="0.00" useanimation="1" speed="0.040" delay="5.00" enabled="1" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedmouse="0" contextfullscreen="1" hideabout="0" dblclickfullscreen="0" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" sensitivity="8" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata source="" title="" latitude="" customnodeid="" comment="" datetime="" tags="" longitude="" copyright="" info="" author="" description=""/>
+  </masternode>
+</tour>
