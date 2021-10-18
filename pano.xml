@@ -44,8 +44,8 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label textcolor="0x000000" background="1" backgroundcolor="0xffffff" borderradius="1" height="20" border="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" backgroundalpha="1" borderalpha="1"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
-      <hotspot title="演播室" pan="-123.35" skinid="ht_node" url="{node1}" description="演播室" target="" id="c" tilt="-2.93"/>
-      <hotspot title="演播室" pan="-231.53" skinid="ht_node" url="{node1}" description="演播室" target="" id="d" tilt="-2.3"/>
+      <hotspot title="演播室" pan="-123.35" skinid="ht_node" url="{node2}" description="演播室" target="" id="c" tilt="-2.93"/>
+      <hotspot title="演播室" pan="-231.53" skinid="ht_node" url="{node2}" description="演播室" target="" id="d" tilt="-2.3"/>
     </hotspots>
     <media/>
     <transition zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
